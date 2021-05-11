@@ -1,6 +1,6 @@
-# coinage
+# 🪙 coinage
 
-View it at [coinage.now.sh](coinage.now.sh)
+View it at [coinage.vercel.app](https://coinage.vercel.app/)
 
 I decided to use [Next.js](https://nextjs.org/) for a few reasons:
 - ✨ Familiarity
